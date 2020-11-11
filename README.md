@@ -6,5 +6,3 @@ This is the density plot
   
 This is the boxplot  
 ![boxplot](images/boxplot.png)
-
-The rendered markdown document should be viewable [here](https://htmlpreview.github.io/?https://github.com/laurabiggins/Example_R_project/blob/main/combined_plots.html)
