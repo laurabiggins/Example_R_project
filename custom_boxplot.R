@@ -5,5 +5,3 @@ iris_boxplot <- function(){
   ggplot(iris, aes(x = Species, y = Sepal.Length)) +
     geom_boxplot()
 }
-
-iris_boxplot()
