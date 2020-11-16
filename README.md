@@ -1,4 +1,5 @@
 # Example_R_project
+Adding another line.  
 This project contains a couple of R scripts to create plots.  
 
 This is the density plot
