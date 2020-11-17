@@ -8,5 +8,3 @@ iris_boxplot <- function(){
 }
 
 #Comment from Yawen Yu
-
-iris_boxplot()
